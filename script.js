@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>I will fuck everything!</h1>'
